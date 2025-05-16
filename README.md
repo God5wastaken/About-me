@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @YTZGod5
-- 👀 I’m interested in Bloons TD 6
-- 💞️ I’m looking to collaborate on a Bloons TD 6 mod
-- 📫 How to reach me discord @YTZ_God5
-I need help with the coding part
+- 👋 Hi, I’m God5
+- 👀 I’m interested in Coding & Modding
+- 📫 How to reach me. discord: @t.s.p_god5
+- 🎉 I am learning how to code
