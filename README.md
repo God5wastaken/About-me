@@ -5,4 +5,4 @@
 - Links:
 - [Main YT Channel](https://www.youtube.com/channel/UCrZ-CpZUyCPDp9psf0dPzSA)
 - [Second/GD Channel](https://www.youtube.com/channel/UCFIpm-qCBB486ujDgjheuGA)
-- [Coding community server](https://discord.gg/qh3wKwXKmD)
+
